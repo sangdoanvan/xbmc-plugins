@@ -2,7 +2,7 @@
 <addon id="plugin.video.fshare"
        name="FShare"
        version="1.0.0"
-       provider-name="trungk43">
+       provider-name="sangdoanvan">
     <requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.simplejson" version="2.0.10" />
