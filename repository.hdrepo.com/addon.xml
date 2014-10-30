@@ -8,9 +8,9 @@
   </requires>
 	<extension point="xbmc.addon.repository"
 		name="HDrepo Add-on Repository">
-		<info compressed="true">https://raw.github.com/trungk43/xbmc-plugins/master/addons.xml</info>
-		<checksum>https://raw.github.com/trungk43/xbmc-plugins/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/trungk43/xbmc-plugins/master</datadir>
+		<info compressed="true">https://raw.github.com/sangdoanvan/xbmc-plugins/master/addons.xml</info>
+		<checksum>https://raw.github.com/sangdoanvan/xbmc-plugins/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/sangdoanvan/xbmc-plugins/master</datadir>
 		<hashes>true</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
